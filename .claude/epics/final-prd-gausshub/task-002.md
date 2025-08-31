@@ -3,10 +3,10 @@ title: "Database Schema & Authentication Foundation"
 description: "Set up PostgreSQL database schema, user authentication system with JWT tokens, and role-based access control (RBAC)"
 epic: "final-prd-gausshub"
 priority: "critical"
-status: "todo"
+status: "completed"
 assignee: ""
 created_at: "2025-08-31T15:21:01Z"
-updated_at: "2025-08-31T15:21:01Z"
+updated_at: "2025-08-31T15:46:04Z"
 depends_on: []
 github_issue: https://github.com/lyd639827127/GaussHub/issues/2
 parallel: false
