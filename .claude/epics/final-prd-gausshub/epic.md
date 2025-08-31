@@ -4,7 +4,7 @@ status: backlog
 created: 2025-08-31T15:17:56Z
 progress: 0%
 prd: .claude/prds/final-prd-gausshub.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/lyd639827127/GaussHub/issues/1
 ---
 
 # Epic: GaussHub - 3D Hall Sensor Market Enablement Platform

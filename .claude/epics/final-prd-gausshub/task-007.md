@@ -8,6 +8,7 @@ depends_on: [002]
 parallel: true
 conflicts_with: [004]
 ---
+github_issue: https://github.com/lyd639827127/GaussHub/issues/6
 
 # Task: Ticket Management System UI
 

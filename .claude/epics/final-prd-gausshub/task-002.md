@@ -8,6 +8,7 @@ assignee: ""
 created_at: "2025-08-31T15:21:01Z"
 updated_at: "2025-08-31T15:21:01Z"
 depends_on: []
+github_issue: https://github.com/lyd639827127/GaussHub/issues/2
 parallel: false
 estimated_hours: 16
 ---

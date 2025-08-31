@@ -8,6 +8,7 @@ depends_on: [002]
 parallel: true
 conflicts_with: []
 ---
+github_issue: https://github.com/lyd639827127/GaussHub/issues/4
 
 # Task: React Frontend Core Components
 

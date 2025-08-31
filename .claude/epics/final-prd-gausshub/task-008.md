@@ -8,6 +8,7 @@ updated: 2025-08-31T15:21:01Z
 depends_on: [002, 003]
 parallel: []
 progress: 0%
+github_issue: https://github.com/lyd639827127/GaussHub/issues/7
 estimated_hours: 120
 category: backend
 ---
